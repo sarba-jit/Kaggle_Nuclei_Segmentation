@@ -1,0 +1,9 @@
+This is a notebook for "2018 Data Science Bowl" competition on Kaggle for Nuclei Segmentation in Images
+https://www.kaggle.com/c/data-science-bowl-2018/overview
+
+Three different image processing techniques have been use:
+1. OpenCV
+2. CNN
+3. UNET
+
+Credits for certain portions of the notebook are mentioned inside the notebook. It has been tested in google colab.
